@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+    color: rgb(205, 162, 210)!important;
+}
+.heading{
+    margin: 0px;
+    width: 100%;
+}
+.lightblue{
+    background-color: rgb(175, 213, 255);
+    font-weight: bolder;
+
+}    
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 5px, 5px, 5px, white;
+    margin-top: 100px;
+}   
+.copy-right-footer{
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: rgb(229, 229, 229);
+    position: fixed;
+    line-height: 3;
+    text-align: center;
+}
